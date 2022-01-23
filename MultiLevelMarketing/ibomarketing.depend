@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1586792302 source:d:\dd\ibomarketing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"nabondha.h"
+
+1586733761 d:\dd\ibomarketing\nabondha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1586954821 source:d:\dd\ibomarketing\nabondha.c
+	"nabondha.h"
+
